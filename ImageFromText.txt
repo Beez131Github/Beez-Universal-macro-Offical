@@ -1,0 +1,32 @@
+Quest B
+. Collect 200,000 White
+Pollen.
+. Collect 200,000 Red
+Pollen.
+g); People {<3} Settings :6
+Shift Lock Switch <
+Camera Mode <
+Movement Mode <
+Maximum Frame Rate
+Adjust your frame rate for smoother ga meplay. Higher
+frame rates consume more power, and frames beyond your
+cfisplay's refresh rate won't be shown.
+
+Experience Language
+Give Translation Feedback
+Automatic Chat Translation
+E
+MakgfiHoney
+I135
+Make Hone
+I
+M
+a
+k
+E:
+1:0
+n
+e
+Y
+(
+Make Honey w
