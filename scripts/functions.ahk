@@ -756,7 +756,6 @@ CheckIfDefeated() {
     if PictureImageSearch("img\defeated2.png", 32) {
         return 1
     } else {
-        MsgBox("not defeated")
         return 0
     }
 }
