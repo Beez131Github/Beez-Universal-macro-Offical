@@ -46,7 +46,7 @@ In the discord server you can go to the #code-submission channel and submit your
 
 1. **Vic hop**
 
-The vic hop toggle can be clicked on, this will make the macro automatically hop to random servers looking for a vic bee. If you want to use alts then select which type of alt it is in the accounts tab. **DOES NOT WORK CURRENTLY WITH ALTS.**
+The vic hop toggle can be clicked on, this will make the macro automatically hop to random servers looking for a vic bee. If you want to use alts then select which type of alt it is in the accounts tab. **DOES WORK CURRENTLY WITH ALTS (only night seachers as of currently).**
 
 2. **Gather**
 
