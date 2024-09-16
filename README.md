@@ -34,7 +34,7 @@ To set up the macro on your machine (windows only), follow these steps:
 
 ## Contact
 
-hello! u can dm me on discord at ``` phandox (beez131) ``` 
+hello! u can dm me on discord at ``` beez131_offical (beez131) ``` 
 
 [Discord server link] (https://discord.gg/VfRq2QKupt)
 
